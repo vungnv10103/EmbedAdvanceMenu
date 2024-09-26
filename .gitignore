@@ -1,0 +1,9 @@
+.vscode/
+docs/
+.mtj.tmp/
+.settings/
+bin/
+.classpath
+.mtj
+.project
+build.properties

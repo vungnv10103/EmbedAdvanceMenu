@@ -1,0 +1,6 @@
+MIDlet-Jar-URL: EmbedAdvanceMenu.jar
+MIDlet-Name: Advance Menu
+MIDlet-Vendor: Envy
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
